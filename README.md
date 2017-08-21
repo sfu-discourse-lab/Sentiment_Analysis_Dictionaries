@@ -1,8 +1,5 @@
 # Sentiment_Analysis_Dictionaries
-Sets of dictionaries for sentiment analysis, used in SO-CAL. English and Spanish. 
-
-Dictionaries for the Semantic Orientation CALculator
-================
+Sets of dictionaries for sentiment analysis, used in SO-CAL (Semantic Orientation CALculator). English and Spanish. 
 
 Version 1.11 (June, 2009)
 -------------------------
